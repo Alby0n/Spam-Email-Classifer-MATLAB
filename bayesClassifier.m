@@ -1,5 +1,5 @@
 [class_1_train,class_0_train,spam, notSpam] = reading();
-
+%This is the driver function.
 
 
 [TP,FN]=spamConfirm(spam);
