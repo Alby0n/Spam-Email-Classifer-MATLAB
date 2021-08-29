@@ -1,4 +1,4 @@
-
+% count the number of occurances of words.
 function [c]=count(Word,op,spam,ham)
    
    c=0;
